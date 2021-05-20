@@ -1,0 +1,8 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/52e6f0f0-2dba-4f52-aee8-93d1b314bf6f/resourceGroups/BreakoutGroup2-rg/providers/Microsoft.Web/sites/BreakoutGroup2",
+    "appService.deploySubpath": ".",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}
